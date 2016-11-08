@@ -1,0 +1,8 @@
+C:\Projects\MiniSuave\MiniSuave\bin\Debug\MiniSuave.exe.config
+C:\Projects\MiniSuave\MiniSuave\bin\Debug\MiniSuave.XML
+C:\Projects\MiniSuave\MiniSuave\bin\Debug\MiniSuave.exe
+C:\Projects\MiniSuave\MiniSuave\bin\Debug\MiniSuave.pdb
+C:\Projects\MiniSuave\MiniSuave\bin\Debug\FSharp.Core.dll
+C:\Projects\MiniSuave\MiniSuave\bin\Debug\FSharp.Core.xml
+C:\Projects\MiniSuave\MiniSuave\obj\Debug\MiniSuave.exe
+C:\Projects\MiniSuave\MiniSuave\obj\Debug\MiniSuave.pdb
